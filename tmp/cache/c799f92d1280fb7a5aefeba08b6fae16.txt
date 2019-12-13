@@ -1,0 +1,1 @@
+a:2:{s:4:"data";a:4:{i:1;s:9:"Christmas";i:2;s:12:"Black Friday";i:3;s:13:"Shop Birthday";i:4;s:6:"Others";}s:8:"end_time";i:1576238385;}
